@@ -9,7 +9,7 @@
 - middle-слой (java/kotlin-сервис);
 - backend (java/kotlin-сервис).
 
-![components.png](![image](https://github.com/AvyGM007/avy-telegram-bot/assets/100993079/3a6d4c40-fb9b-40de-8b87-00b7bcaffe67)
+(![image](https://github.com/AvyGM007/avy-telegram-bot/assets/100993079/3a6d4c40-fb9b-40de-8b87-00b7bcaffe67)
 
 
 ## Технологический стэк
